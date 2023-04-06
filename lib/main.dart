@@ -169,7 +169,35 @@ class MyHomePage extends StatelessWidget {
                     DataCell(Text('Belgian Ale')),
                     DataCell(Text('80')),
                   ],
-                )
+                ),
+                DataRow(
+                  cells: <DataCell>[
+                    DataCell(Text('Brahma Duplo Malte')),
+                    DataCell(Text('Belgian Ale')),
+                    DataCell(Text('80')),
+                  ],
+                ),
+                DataRow(
+                  cells: <DataCell>[
+                    DataCell(Text('Brahma Duplo Malte')),
+                    DataCell(Text('Belgian Ale')),
+                    DataCell(Text('80')),
+                  ],
+                ),
+                DataRow(
+                  cells: <DataCell>[
+                    DataCell(Text('Brahma Duplo Malte')),
+                    DataCell(Text('Belgian Ale')),
+                    DataCell(Text('80')),
+                  ],
+                ),
+                DataRow(
+                  cells: <DataCell>[
+                    DataCell(Text('Brahma Duplo Malte')),
+                    DataCell(Text('Belgian Ale')),
+                    DataCell(Text('80')),
+                  ],
+                ),
               ]),
             ),
           ],
